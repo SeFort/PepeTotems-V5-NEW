@@ -3,4 +3,4 @@
 
 Анимации теперь БЕСПЛАТНЫЕ 
 
-Но здесь пока ничего нету, ждите 1 версии meow
+![table](https://user-images.githubusercontent.com/95398007/232333308-565ed5e6-2af4-4c52-a63d-42fd8cb06a16.png)
